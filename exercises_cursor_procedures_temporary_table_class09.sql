@@ -141,7 +141,4 @@ SELECT
     
     CALL sp_assinaturas_cursor();
     
-    
-    
-    
 
